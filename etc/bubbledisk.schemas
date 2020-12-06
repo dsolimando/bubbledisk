@@ -1,0 +1,413 @@
+<?xml version="1.0" ?>
+<gconfschemafile>
+    <schemalist>
+        <schema>
+            <key>/schemas/apps/bubbledisk/writing/pregap</key>
+            <applyto>/apps/bubbledisk/writing/pregap</applyto>
+            <owner>bubbledisk</owner>
+            <type>string</type>
+            <default>020</default>
+
+            <locale name="C">
+                <short>Pregap to insert in audio projects</short>
+                <long>
+                    Pregap to insert in audio projects
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/writing/addhiddenfiles</key>
+            <applyto>/apps/bubbledisk/writing/addhiddenfiles</applyto>
+            <owner>bubbledisk</owner>
+            <type>bool</type>
+            <default>true</default>
+
+            <locale name="C">
+                <short>Add hidden files in data compilations</short>
+                <long>
+                   Add hidden files in data compilations
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/writing/addsystemfiles</key>
+            <applyto>/apps/bubbledisk/writing/addsystemfiles</applyto>
+            <owner>bubbledisk</owner>
+            <type>bool</type>
+            <default>false</default>
+
+            <locale name="C">
+                <short>Add system files in data compilations</short>
+                <long>
+                   Add system files in data compilations
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/writing/overburning</key>
+            <applyto>/apps/bubbledisk/writing/overburning</applyto>
+            <owner>bubbledisk</owner>
+            <type>bool</type>
+            <default>false</default>
+
+            <locale name="C">
+                <short>Allow cdrecord to write more than the official size</short>
+                <long>
+                   Allow cdrecord to write more than the official size of a medium.
+                   This feature is usually called overburning and depends on the fact
+                   that most blank media may hold more space than the official size.
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/writing/bufferunderrun</key>
+            <applyto>/apps/bubbledisk/writing/bufferunderrun</applyto>
+            <owner>bubbledisk</owner>
+            <type>bool</type>
+            <default>true</default>
+
+            <locale name="C">
+                <short>Enable buffer under run protection</short>
+                <long>
+                    Enable buffer under run protection
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/writing/writespeedcontrol</key>
+            <applyto>/apps/bubbledisk/writing/writespeedcontrol</applyto>
+            <owner>bubbledisk</owner>
+            <type>bool</type>
+            <default>true</default>
+
+            <locale name="C">
+                <short>Enable writing speed control</short>
+                <long>
+                    Enable writing speed control
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/writing/eject</key>
+            <applyto>/apps/bubbledisk/writing/eject</applyto>
+            <owner>bubbledisk</owner>
+            <type>bool</type>
+            <default>true</default>
+
+            <locale name="C">
+                <short>Eject disk after doing the work.</short>
+                <long>
+                   Eject disk after doing the work.
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/writing/blankcdrw</key>
+            <applyto>/apps/bubbledisk/writing/blankcdrw</applyto>
+            <owner>bubbledisk</owner>
+            <type>bool</type>
+            <default>true</default>
+
+            <locale name="C">
+                <short>Blank a CD-RW before writing.</short>
+                <long>
+                   Blank a CD-RW before writing.
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/apps/path</key>
+            <applyto>/apps/bubbledisk/apps/path</applyto>
+            <owner>bubbledisk</owner>
+            <type>string</type>
+            <default></default>
+
+            <locale name="C">
+                <short>Path to backend applications</short>
+                <long>
+                   Path to backend applications
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/cddb/cddb_dirs</key>
+            <applyto>/apps/bubbledisk/cddb/cddb_dirs</applyto>
+            <owner>bubbledisk</owner>
+            <type>string</type>
+            <default>http://freedb.org:80</default>
+
+            <locale name="C">
+                <short>List of local cddb entries</short>
+                <long>
+                   List of local cddb entries
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/cddb/use_local_cddb</key>
+            <applyto>/apps/bubbledisk/cddb/use_local_cddb</applyto>
+            <owner>bubbledisk</owner>
+            <type>bool</type>
+            <default>true</default>
+
+            <locale name="C">
+                <short>use cddb local entries</short>
+                <long>
+                   use cddb local entries
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/cddb/save_cddb_entries</key>
+            <applyto>/apps/bubbledisk/cddb/save_cddb_entries</applyto>
+            <owner>bubbledisk</owner>
+            <type>bool</type>
+            <default>true</default>
+
+            <locale name="C">
+                <short>save new CDDB entries</short>
+                <long>
+                   save new CDDB entries
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/cddb/servers</key>
+            <applyto>/apps/bubbledisk/cddb/servers</applyto>
+            <owner>bubbledisk</owner>
+            <type>string</type>
+            <default>http://freedb.org:80</default>
+
+            <locale name="C">
+                <short>URL's of cddb Internet databases</short>
+                <long>
+                   URL's of cddb Internet databases
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/cddb/use_cddb_servers</key>
+            <applyto>/apps/bubbledisk/cddb/use_cddb_servers</applyto>
+            <owner>bubbledisk</owner>
+            <type>bool</type>
+            <default>true</default>
+
+            <locale name="C">
+                <short>use cddb Internet databases</short>
+                <long>
+                   use cddb Internet databases
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/misc/tempdir</key>
+            <applyto>/apps/bubbledisk/misc/tempdir</applyto>
+            <owner>bubbledisk</owner>
+            <type>string</type>
+            <default>/tmp/bubbledisk</default>
+
+            <locale name="C">
+                <short>Temporary folder for creating applications</short>
+                <long>
+                   Folder used to create compilations
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/misc/check_sysconfig</key>
+            <applyto>/apps/bubbledisk/misc/check_sysconfig</applyto>
+            <owner>bubbledisk</owner>
+            <type>bool</type>
+            <default>true</default>
+
+            <locale name="C">
+                <short>Force checking System configuration</short>
+                <long>
+                   Force checking System configuration before operations
+                   (like burning, ...)
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/misc/hide_main_window</key>
+            <applyto>/apps/bubbledisk/misc/hide_main_window</applyto>
+            <owner>bubbledisk</owner>
+            <type>bool</type>
+            <default>false</default>
+
+            <locale name="C">
+                <short>Hide main widow during burning operation</short>
+                <long>
+                  Hide main widow during burning operation
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/misc/show_splashscreen</key>
+            <applyto>/apps/bubbledisk/misc/show_splashscreen</applyto>
+            <owner>bubbledisk</owner>
+            <type>bool</type>
+            <default>true</default>
+
+            <locale name="C">
+                <short>Show splashscreen on bubbledisk boot</short>
+                <long>
+                  Show splashscreen on bubbledisk boot
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/misc/notification</key>
+            <applyto>/apps/bubbledisk/misc/notification</applyto>
+            <owner>bubbledisk</owner>
+            <type>bool</type>
+            <default>true</default>
+
+            <locale name="C">
+                <short>Show notification icon as applet</short>
+                <long>
+                  Show notification icon as applet
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/misc/devices</key>
+            <applyto>/apps/bubbledisk/misc/devices</applyto>
+            <owner>bubbledisk</owner>
+            <type>list</type>
+            <list_type>string</list_type>
+            <default>[]</default>
+
+            <locale name="C">
+                <short>List of detected devices</short>
+                <long>
+                  List of detected devices
+                </long>
+            </locale>
+        </schema>
+        <schema>
+            <key>/schemas/apps/bubbledisk/misc/first_boot</key>
+            <applyto>/apps/bubbledisk/misc/first_boot</applyto>
+            <owner>bubbledisk</owner>
+            <type>bool</type>
+            <default>true</default>
+
+            <locale name="C">
+                <short>First time bubbledisk burning rom is loaded</short>
+                <long>
+                  First time bubbledisk burning rom is loaded
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/view/window_width</key>
+            <applyto>/apps/bubbledisk/view/window_width</applyto>
+            <owner>bubbledisk</owner>
+            <type>int</type>
+            <default>1280</default>
+
+            <locale name="C">
+                <short>Main window width</short>
+                <long>
+                  Main window width
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/view/window_height</key>
+            <applyto>/apps/bubbledisk/view/window_height</applyto>
+            <owner>bubbledisk</owner>
+            <type>int</type>
+            <default>820</default>
+
+            <locale name="C">
+                <short>Main window height</short>
+                <long>
+                  Main window height
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/view/window_position_x</key>
+            <applyto>/apps/bubbledisk/view/window_position_x</applyto>
+            <owner>bubbledisk</owner>
+            <type>int</type>
+            <default>0</default>
+
+            <locale name="C">
+                <short>Main window position in x axis</short>
+                <long>
+                  Main window position in x axis
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/view/window_position_y</key>
+            <applyto>/apps/bubbledisk/view/window_position_y</applyto>
+            <owner>bubbledisk</owner>
+            <type>int</type>
+            <default>0</default>
+
+            <locale name="C">
+                <short>Main window position in y axis</short>
+                <long>
+                  Main window position in y axis
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/view/explorer_view</key>
+            <applyto>/apps/bubbledisk/view/explorer_view</applyto>
+            <owner>bubbledisk</owner>
+            <type>string</type>
+            <default>vertical</default>
+
+            <locale name="C">
+                <short>Sense of File Explorers</short>
+                <long>
+                  Sense of File Explorers
+                </long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/bubbledisk/view/explorer_sense</key>
+            <applyto>/apps/bubbledisk/view/explorer_sense</applyto>
+            <owner>bubbledisk</owner>
+            <type>string</type>
+            <default>right</default>
+
+            <locale name="C">
+                <short>Place of File Explorers</short>
+                <long>
+                  Place of File Explorers
+                </long>
+            </locale>
+        </schema>
+
+ </schemalist>
+</gconfschemafile>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:xml="http://www.w3.org/XML/1998/namespace"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="architecure.svg"
+   sodipodi:docbase="/home/dsolimando/Programming/Java/workspace/bubbledisk/doc"
+   inkscape:version="0.41"
+   sodipodi:version="0.32"
+   id="svg2"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:window-height="565"
+     inkscape:window-width="986"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="891.12863"
+     inkscape:cx="253.14458"
+     inkscape:zoom="1.2187708"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF
+       id="RDF5">
+      <cc:Work
+         id="Work6"
+         rdf:about="">
+        <dc:format
+           id="format7">image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+           id="type9" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="110.47223"
+       x="16.923601"
+       height="26.540787"
+       width="512.08087"
+       id="rect1291"
+       style="fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#000000;stroke-width:0.71980900;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000" />
+    <rect
+       y="80.565796"
+       x="318.68732"
+       height="26.593161"
+       width="103.07734"
+       id="rect2052"
+       style="fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#000000;stroke-width:0.32326427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000" />
+    <text
+       transform="scale(0.968068,1.032986)"
+       sodipodi:linespacing="100%"
+       id="text2054"
+       y="123.5267"
+       x="238.76163"
+       style="font-size:13.548426;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans;text-anchor:start;writing-mode:lr-tb"
+       xml:space="preserve"><tspan
+         y="123.52670"
+         x="238.76163"
+         id="tspan2056"
+         sodipodi:role="line">System_tools</tspan></text>
+    <text
+       transform="scale(0.968068,1.032986)"
+       sodipodi:linespacing="100%"
+       id="text2058"
+       y="98.139351"
+       x="346.78543"
+       style="font-size:13.548421;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans;text-anchor:start;writing-mode:lr-tb"
+       xml:space="preserve"><tspan
+         y="98.139351"
+         x="346.78543"
+         id="tspan2060"
+         sodipodi:role="line">Bubblevfs</tspan></text>
+    <rect
+       y="49.416313"
+       x="17.600475"
+       height="27.784103"
+       width="403.62616"
+       id="rect2062"
+       style="fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#000000;stroke-width:0.81100261;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000" />
+    <text
+       transform="scale(0.968068,1.032986)"
+       sodipodi:linespacing="100%"
+       id="text2064"
+       y="66.610786"
+       x="164.30843"
+       style="font-size:13.548421;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans;text-anchor:start;writing-mode:lr-tb"
+       xml:space="preserve"><tspan
+         id="tspan2098"
+         sodipodi:role="line"
+         y="66.610786"
+         x="164.30843">Project Creation Tools</tspan></text>
+    <rect
+       y="80.292328"
+       x="16.971661"
+       height="27.140089"
+       width="142.18320"
+       id="rect2076"
+       style="fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#000000;stroke-width:0.47573400;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000" />
+    <rect
+       y="80.288475"
+       x="161.54768"
+       height="27.147810"
+       width="154.54823"
+       id="rect2078"
+       style="fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#000000;stroke-width:0.49605960;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000" />
+    <text
+       transform="scale(0.968068,1.032986)"
+       sodipodi:linespacing="100%"
+       id="text2080"
+       y="95.610199"
+       x="85.948318"
+       style="font-size:13.548421;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans;text-anchor:middle;writing-mode:lr-tb"
+       xml:space="preserve"><tspan
+         id="tspan2908"
+         sodipodi:role="line"
+         y="95.610199"
+         x="85.948318">Device Manager</tspan></text>
+    <text
+       transform="scale(0.968068,1.032986)"
+       sodipodi:linespacing="100%"
+       id="text2088"
+       y="95.610199"
+       x="248.65376"
+       style="font-size:13.548421;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans;text-anchor:middle;writing-mode:lr-tb"
+       xml:space="preserve"><tspan
+         id="tspan2906"
+         sodipodi:role="line"
+         y="95.610199"
+         x="248.65376">Application Manager</tspan></text>
+    <text
+       transform="scale(1.012352,0.987799)"
+       sodipodi:linespacing="100%"
+       id="text2102"
+       y="68.387733"
+       x="425.92578"
+       style="font-size:13.197468;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans;text-anchor:start;writing-mode:lr-tb"
+       xml:space="preserve"><tspan
+         id="tspan2106"
+         sodipodi:role="line"
+         y="68.387733"
+         x="425.92578">Configuration</tspan></text>
+    <rect
+       y="19.181772"
+       x="17.464733"
+       height="26.107786"
+       width="403.84378"
+       id="rect2108"
+       style="fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#000000;stroke-width:0.72864038;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000" />
+    <rect
+       y="18.627745"
+       x="425.85471"
+       height="88.518677"
+       width="102.03721"
+       id="rect2110"
+       style="fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#000000;stroke-width:0.65451699;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000" />
+    <text
+       transform="scale(0.968068,1.032986)"
+       sodipodi:linespacing="100%"
+       id="text2112"
+       y="34.576183"
+       x="120.32523"
+       style="font-size:13.548421;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans;text-anchor:start;writing-mode:lr-tb"
+       xml:space="preserve"><tspan
+         id="tspan2118"
+         sodipodi:role="line"
+         y="34.576183"
+         x="120.32523">MVC Graphical user Interface</tspan></text>
+  </g>
+</svg>

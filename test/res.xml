@@ -1,0 +1,436 @@
+<?xml version="1.0" ?>
+<compilation>
+	<directory location="" name="Ju" session="0">
+		<file location="/home/julie/Ju/mes1.sxw" name="mes1.sxw" session="0"/>
+	</directory>
+	<file location="/home/julie/.dmrc" name=".dmrc" session="0"/>
+	<directory location="" name=".gaim" session="0"/>
+	<directory location="" name=".java" session="0">
+		<directory location="" name="deployment" session="0">
+			<directory location="" name="ext" session="0"/>
+			<directory location="" name="log" session="0">
+				<file location="/home/julie/.java/deployment/log/plugin142_04.trace" name="plugin142_04.trace" session="0"/>
+			</directory>
+			<directory location="" name="cache" session="0">
+				<directory location="" name="tmp" session="0"/>
+				<directory location="" name="javapi" session="0">
+					<directory location="" name="v1.0" session="0">
+						<directory location="" name="ext" session="0"/>
+						<directory location="" name="jar" session="0">
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/jar/goldrush.2.0.1.jar-30394f08-6831a6d6.idx" name="goldrush.2.0.1.jar-30394f08-6831a6d6.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/jar/goldrush.2.0.1.jar-30394f08-6831a6d6.zip" name="goldrush.2.0.1.jar-30394f08-6831a6d6.zip" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/jar/cnt4.jar-6ea31ee6-5af5803a.idx" name="cnt4.jar-6ea31ee6-5af5803a.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/jar/cnt4.jar-6ea31ee6-5af5803a.zip" name="cnt4.jar-6ea31ee6-5af5803a.zip" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/jar/textexpress.2.0.3.jar-7056152-7f399f66.idx" name="textexpress.2.0.3.jar-7056152-7f399f66.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/jar/textexpress.2.0.3.jar-7056152-7f399f66.zip" name="textexpress.2.0.3.jar-7056152-7f399f66.zip" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/jar/diamondmine.1.0.1.jar-343cf57-2f6801ea.idx" name="diamondmine.1.0.1.jar-343cf57-2f6801ea.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/jar/diamondmine.1.0.1.jar-343cf57-2f6801ea.zip" name="diamondmine.1.0.1.jar-343cf57-2f6801ea.zip" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/jar/blt1.zip-40ccc980-51c78cbc.idx" name="blt1.zip-40ccc980-51c78cbc.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/jar/blt1.zip-40ccc980-51c78cbc.zip" name="blt1.zip-40ccc980-51c78cbc.zip" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/jar/dynomite.1.0.1.jar-1d700067-2fb2b9ac.idx" name="dynomite.1.0.1.jar-1d700067-2fb2b9ac.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/jar/dynomite.1.0.1.jar-1d700067-2fb2b9ac.zip" name="dynomite.1.0.1.jar-1d700067-2fb2b9ac.zip" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/jar/cubis.1.0.0.jar-72f17afc-50c3fe8b.idx" name="cubis.1.0.0.jar-72f17afc-50c3fe8b.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/jar/cubis.1.0.0.jar-72f17afc-50c3fe8b.zip" name="cubis.1.0.0.jar-72f17afc-50c3fe8b.zip" session="0"/>
+						</directory>
+						<directory location="" name="tmp" session="0"/>
+						<directory location="" name="file" session="0">
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/images.jpg-5cff1981-45996641.idx" name="images.jpg-5cff1981-45996641.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/images.jpg-5cff1981-45996641.jpg" name="images.jpg-5cff1981-45996641.jpg" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/logo.gif-120a7a6f-7282383f.gif" name="logo.gif-120a7a6f-7282383f.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/logo.gif-120a7a6f-7282383f.idx" name="logo.gif-120a7a6f-7282383f.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/bullet.gif-505a9aee-67938f28.gif" name="bullet.gif-505a9aee-67938f28.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/bullet.gif-505a9aee-67938f28.idx" name="bullet.gif-505a9aee-67938f28.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/train_loud.au-7e9a1623-340759a1.au" name="train_loud.au-7e9a1623-340759a1.au" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/loading_small_.gif-538eb5f-631f0c76.gif" name="loading_small_.gif-538eb5f-631f0c76.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/loading_small_.gif-538eb5f-631f0c76.idx" name="loading_small_.gif-538eb5f-631f0c76.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_tile.gif-ba49521-14515fef.gif" name="_tile.gif-ba49521-14515fef.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_tile.gif-ba49521-14515fef.idx" name="_tile.gif-ba49521-14515fef.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_lettersetfont.gif-60c27d10-27d8433b.gif" name="_lettersetfont.gif-60c27d10-27d8433b.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_lettersetfont.gif-60c27d10-27d8433b.idx" name="_lettersetfont.gif-60c27d10-27d8433b.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/trainstop.au-69bf60ba-3732fdea.au" name="trainstop.au-69bf60ba-3732fdea.au" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_train_big_player.gif-7e7ffd0a-6bbf5785.gif" name="_train_big_player.gif-7e7ffd0a-6bbf5785.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_train_big_player.gif-7e7ffd0a-6bbf5785.idx" name="_train_big_player.gif-7e7ffd0a-6bbf5785.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/button_pause.gif-8fde6cf-130556fa.gif" name="button_pause.gif-8fde6cf-130556fa.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/button_pause.gif-8fde6cf-130556fa.idx" name="button_pause.gif-8fde6cf-130556fa.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/dail_big.gif-d8ca865-17ef640d.gif" name="dail_big.gif-d8ca865-17ef640d.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/dail_big.gif-d8ca865-17ef640d.idx" name="dail_big.gif-d8ca865-17ef640d.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/button_clear.gif-bcd73a6-2b4fef1a.gif" name="button_clear.gif-bcd73a6-2b4fef1a.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/button_clear.gif-bcd73a6-2b4fef1a.idx" name="button_clear.gif-bcd73a6-2b4fef1a.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/train_big_comp.gif-59170d09-4592ab99.gif" name="train_big_comp.gif-59170d09-4592ab99.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/train_big_comp.gif-59170d09-4592ab99.idx" name="train_big_comp.gif-59170d09-4592ab99.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_name.gif-76e0867e-1030012d.gif" name="_name.gif-76e0867e-1030012d.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_name.gif-76e0867e-1030012d.idx" name="_name.gif-76e0867e-1030012d.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_dail_big.gif-67624014-1aa16cb1.gif" name="_dail_big.gif-67624014-1aa16cb1.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_dail_big.gif-67624014-1aa16cb1.idx" name="_dail_big.gif-67624014-1aa16cb1.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/correct.au-5e4e355a-7e28012f.au" name="correct.au-5e4e355a-7e28012f.au" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_arial12.gif-3e89c511-5c58b7d3.gif" name="_arial12.gif-3e89c511-5c58b7d3.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_arial12.gif-3e89c511-5c58b7d3.idx" name="_arial12.gif-3e89c511-5c58b7d3.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/train_bar_comp.gif-31195356-3dedff0c.gif" name="train_bar_comp.gif-31195356-3dedff0c.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/train_bar_comp.gif-31195356-3dedff0c.idx" name="train_bar_comp.gif-31195356-3dedff0c.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/error.au-75f961fc-6e7079b4.idx" name="error.au-75f961fc-6e7079b4.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/trainstart.au-2b5c9852-5f9e65ea.au" name="trainstart.au-2b5c9852-5f9e65ea.au" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_smoke.gif-14e3b0b4-350d1aac.gif" name="_smoke.gif-14e3b0b4-350d1aac.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_smoke.gif-14e3b0b4-350d1aac.idx" name="_smoke.gif-14e3b0b4-350d1aac.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/trainstart.au-2b5c9852-5f9e65ea.idx" name="trainstart.au-2b5c9852-5f9e65ea.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/welcome3.jpg-540a62f2-3300f8f5.idx" name="welcome3.jpg-540a62f2-3300f8f5.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/welcome3.jpg-540a62f2-3300f8f5.jpg" name="welcome3.jpg-540a62f2-3300f8f5.jpg" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_splash_play.gif-c485273-5f0eca36.gif" name="_splash_play.gif-c485273-5f0eca36.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_splash_play.gif-c485273-5f0eca36.idx" name="_splash_play.gif-c485273-5f0eca36.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_train_bar_player.gif-5f09e417-2087eff3.gif" name="_train_bar_player.gif-5f09e417-2087eff3.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_train_bar_player.gif-5f09e417-2087eff3.idx" name="_train_bar_player.gif-5f09e417-2087eff3.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_smallfont11.gif-4d83437b-2f72d487.gif" name="_smallfont11.gif-4d83437b-2f72d487.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_smallfont11.gif-4d83437b-2f72d487.idx" name="_smallfont11.gif-4d83437b-2f72d487.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_button.gif-5da831e5-4c015844.gif" name="_button.gif-5da831e5-4c015844.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_button.gif-5da831e5-4c015844.idx" name="_button.gif-5da831e5-4c015844.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/train_big_player.gif-1169845b-44804504.gif" name="train_big_player.gif-1169845b-44804504.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/train_big_player.gif-1169845b-44804504.idx" name="train_big_player.gif-1169845b-44804504.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_train_big_comp.gif-3581e578-394c76ac.gif" name="_train_big_comp.gif-3581e578-394c76ac.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_train_big_comp.gif-3581e578-394c76ac.idx" name="_train_big_comp.gif-3581e578-394c76ac.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/1.class-3e0be904-7f4dd695.class" name="1.class-3e0be904-7f4dd695.class" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/tile_glow.gif-6f48d92-1412027e.gif" name="tile_glow.gif-6f48d92-1412027e.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/tile_glow.gif-6f48d92-1412027e.idx" name="tile_glow.gif-6f48d92-1412027e.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/hottile.au-64979fa9-7f5ea777.au" name="hottile.au-64979fa9-7f5ea777.au" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/arrows.jpg-5d780eb-573c4fb1.idx" name="arrows.jpg-5d780eb-573c4fb1.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/arrows.jpg-5d780eb-573c4fb1.jpg" name="arrows.jpg-5d780eb-573c4fb1.jpg" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_progress_blip.gif-256ee08-1cc2d70b.gif" name="_progress_blip.gif-256ee08-1cc2d70b.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_progress_blip.gif-256ee08-1cc2d70b.idx" name="_progress_blip.gif-256ee08-1cc2d70b.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/landscape.gif-3b75c14f-4bd3c1e3.gif" name="landscape.gif-3b75c14f-4bd3c1e3.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/landscape.gif-3b75c14f-4bd3c1e3.idx" name="landscape.gif-3b75c14f-4bd3c1e3.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_progress.gif-616af1a0-3d2669cc.gif" name="_progress.gif-616af1a0-3d2669cc.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_progress.gif-616af1a0-3d2669cc.idx" name="_progress.gif-616af1a0-3d2669cc.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_arrows.gif-623d2c3d-634ca1bf.gif" name="_arrows.gif-623d2c3d-634ca1bf.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_arrows.gif-623d2c3d-634ca1bf.idx" name="_arrows.gif-623d2c3d-634ca1bf.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/splash_button.gif-669de31e-2409840c.gif" name="splash_button.gif-669de31e-2409840c.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/splash_button.gif-669de31e-2409840c.idx" name="splash_button.gif-669de31e-2409840c.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_square.gif-44e17650-79bd86b0.gif" name="_square.gif-44e17650-79bd86b0.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_square.gif-44e17650-79bd86b0.idx" name="_square.gif-44e17650-79bd86b0.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/0.class-925adc3-1135b698.class" name="0.class-925adc3-1135b698.class" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/zylom.gif-4b43aba8-6a9a0117.gif" name="zylom.gif-4b43aba8-6a9a0117.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/zylom.gif-4b43aba8-6a9a0117.idx" name="zylom.gif-4b43aba8-6a9a0117.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/fire.gif-77966d7a-4dc5aa44.gif" name="fire.gif-77966d7a-4dc5aa44.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/fire.gif-77966d7a-4dc5aa44.idx" name="fire.gif-77966d7a-4dc5aa44.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/train_loud.au-7e9a1623-340759a1.idx" name="train_loud.au-7e9a1623-340759a1.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/dummy.au-2429ab5c-71ccf443.au" name="dummy.au-2429ab5c-71ccf443.au" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/progress.gif-79559f1-54f924c4.gif" name="progress.gif-79559f1-54f924c4.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/progress.gif-79559f1-54f924c4.idx" name="progress.gif-79559f1-54f924c4.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/tile_hot.gif-47238780-7e8efedb.gif" name="tile_hot.gif-47238780-7e8efedb.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/tile_hot.gif-47238780-7e8efedb.idx" name="tile_hot.gif-47238780-7e8efedb.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/background.jpg-20c97171-2af6d900.idx" name="background.jpg-20c97171-2af6d900.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/background.jpg-20c97171-2af6d900.jpg" name="background.jpg-20c97171-2af6d900.jpg" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_button_small.gif-3e71972d-649a7508.gif" name="_button_small.gif-3e71972d-649a7508.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_button_small.gif-3e71972d-649a7508.idx" name="_button_small.gif-3e71972d-649a7508.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/dummy.au-2429ab5c-71ccf443.idx" name="dummy.au-2429ab5c-71ccf443.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/hottile.au-64979fa9-7f5ea777.idx" name="hottile.au-64979fa9-7f5ea777.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/tube_corner.gif-21ebc684-62711c4e.gif" name="tube_corner.gif-21ebc684-62711c4e.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/tube_corner.gif-21ebc684-62711c4e.idx" name="tube_corner.gif-21ebc684-62711c4e.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_door.gif-50cce621-70a13a71.gif" name="_door.gif-50cce621-70a13a71.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_door.gif-50cce621-70a13a71.idx" name="_door.gif-50cce621-70a13a71.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/logo.au-70bb7361-71f1fca8.idx" name="logo.au-70bb7361-71f1fca8.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_tile_glow.gif-67d1ebc3-23a589ca.gif" name="_tile_glow.gif-67d1ebc3-23a589ca.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_tile_glow.gif-67d1ebc3-23a589ca.idx" name="_tile_glow.gif-67d1ebc3-23a589ca.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/elements.gif-3bb0e3bb-67d53dcd.gif" name="elements.gif-3bb0e3bb-67d53dcd.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/elements.gif-3bb0e3bb-67d53dcd.idx" name="elements.gif-3bb0e3bb-67d53dcd.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/welcome2.jpg-53fc4b71-2a9fb272.idx" name="welcome2.jpg-53fc4b71-2a9fb272.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/welcome2.jpg-53fc4b71-2a9fb272.jpg" name="welcome2.jpg-53fc4b71-2a9fb272.jpg" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/correct.au-5e4e355a-7e28012f.idx" name="correct.au-5e4e355a-7e28012f.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/loading_small.jpg-4ee57675-6a76749a.idx" name="loading_small.jpg-4ee57675-6a76749a.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/loading_small.jpg-4ee57675-6a76749a.jpg" name="loading_small.jpg-4ee57675-6a76749a.jpg" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/tube_hor.gif-36e14e54-6c378874.gif" name="tube_hor.gif-36e14e54-6c378874.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/tube_hor.gif-36e14e54-6c378874.idx" name="tube_hor.gif-36e14e54-6c378874.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/progress_blip_opponent.gif-17d1c1d-3309a7c4.gif" name="progress_blip_opponent.gif-17d1c1d-3309a7c4.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/progress_blip_opponent.gif-17d1c1d-3309a7c4.idx" name="progress_blip_opponent.gif-17d1c1d-3309a7c4.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_tube_corner.gif-40ea5c75-5eab9061.gif" name="_tube_corner.gif-40ea5c75-5eab9061.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_tube_corner.gif-40ea5c75-5eab9061.idx" name="_tube_corner.gif-40ea5c75-5eab9061.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/door.jpg-60d22b0f-337e7642.idx" name="door.jpg-60d22b0f-337e7642.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/door.jpg-60d22b0f-337e7642.jpg" name="door.jpg-60d22b0f-337e7642.jpg" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_scorefont.gif-201adba6-74018cbd.gif" name="_scorefont.gif-201adba6-74018cbd.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_scorefont.gif-201adba6-74018cbd.idx" name="_scorefont.gif-201adba6-74018cbd.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/0.class-925adc3-1135b698.idx" name="0.class-925adc3-1135b698.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_url.gif-1b9b9ef4-665416c0.gif" name="_url.gif-1b9b9ef4-665416c0.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_url.gif-1b9b9ef4-665416c0.idx" name="_url.gif-1b9b9ef4-665416c0.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/train.au-6ed241fc-1f75435d.idx" name="train.au-6ed241fc-1f75435d.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/button_submit.gif-15449537-560523f4.gif" name="button_submit.gif-15449537-560523f4.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/button_submit.gif-15449537-560523f4.idx" name="button_submit.gif-15449537-560523f4.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_button_sound.gif-33298735-75113a6b.gif" name="_button_sound.gif-33298735-75113a6b.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_button_sound.gif-33298735-75113a6b.idx" name="_button_sound.gif-33298735-75113a6b.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/button_sound.gif-72555f06-14be56d2.gif" name="button_sound.gif-72555f06-14be56d2.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/button_sound.gif-72555f06-14be56d2.idx" name="button_sound.gif-72555f06-14be56d2.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_foundfont.gif-77b94496-538ef9c9.gif" name="_foundfont.gif-77b94496-538ef9c9.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_foundfont.gif-77b94496-538ef9c9.idx" name="_foundfont.gif-77b94496-538ef9c9.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/dail_small.gif-1cb65aac-33a4fb69.gif" name="dail_small.gif-1cb65aac-33a4fb69.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/dail_small.gif-1cb65aac-33a4fb69.idx" name="dail_small.gif-1cb65aac-33a4fb69.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/train_soft.au-70199a4b-666bf875.idx" name="train_soft.au-70199a4b-666bf875.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/progress_blip_player.gif-106ec8a1-2c8b04e2.gif" name="progress_blip_player.gif-106ec8a1-2c8b04e2.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/progress_blip_player.gif-106ec8a1-2c8b04e2.idx" name="progress_blip_player.gif-106ec8a1-2c8b04e2.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/logo.au-70bb7361-71f1fca8.au" name="logo.au-70bb7361-71f1fca8.au" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/welcome1.jpg-53ee33f0-56bfd887.idx" name="welcome1.jpg-53ee33f0-56bfd887.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/welcome1.jpg-53ee33f0-56bfd887.jpg" name="welcome1.jpg-53ee33f0-56bfd887.jpg" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/error.au-75f961fc-6e7079b4.au" name="error.au-75f961fc-6e7079b4.au" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_dail_small.gif-5784c29b-4b3ecc12.gif" name="_dail_small.gif-5784c29b-4b3ecc12.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_dail_small.gif-5784c29b-4b3ecc12.idx" name="_dail_small.gif-5784c29b-4b3ecc12.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/splash.jpg-2f2be748-55a8def8.idx" name="splash.jpg-2f2be748-55a8def8.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/splash.jpg-2f2be748-55a8def8.jpg" name="splash.jpg-2f2be748-55a8def8.jpg" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/train.au-6ed241fc-1f75435d.au" name="train.au-6ed241fc-1f75435d.au" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/zylomurl.gif-124bc01f-4dc5cb1d.gif" name="zylomurl.gif-124bc01f-4dc5cb1d.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/zylomurl.gif-124bc01f-4dc5cb1d.idx" name="zylomurl.gif-124bc01f-4dc5cb1d.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/train_soft.au-70199a4b-666bf875.au" name="train_soft.au-70199a4b-666bf875.au" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/button_godeluxe.jpg-3a21d215-55cff599.idx" name="button_godeluxe.jpg-3a21d215-55cff599.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/button_godeluxe.jpg-3a21d215-55cff599.jpg" name="button_godeluxe.jpg-3a21d215-55cff599.jpg" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/buttonclick.au-75b66aae-55d19a07.au" name="buttonclick.au-75b66aae-55d19a07.au" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/buttonclick.au-75b66aae-55d19a07.idx" name="buttonclick.au-75b66aae-55d19a07.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/dialog.gif-5f64a034-676c7761.gif" name="dialog.gif-5f64a034-676c7761.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/dialog.gif-5f64a034-676c7761.idx" name="dialog.gif-5f64a034-676c7761.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/button_shuffle.gif-20eb7712-539d2327.gif" name="button_shuffle.gif-20eb7712-539d2327.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/button_shuffle.gif-20eb7712-539d2327.idx" name="button_shuffle.gif-20eb7712-539d2327.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/button_ok.jpg-5c40d0f0-6a45368e.idx" name="button_ok.jpg-5c40d0f0-6a45368e.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/button_ok.jpg-5c40d0f0-6a45368e.jpg" name="button_ok.jpg-5c40d0f0-6a45368e.jpg" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/train_bar_player.gif-71f36b68-7614e68c.gif" name="train_bar_player.gif-71f36b68-7614e68c.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/train_bar_player.gif-71f36b68-7614e68c.idx" name="train_bar_player.gif-71f36b68-7614e68c.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/letterclick.au-266333a2-7a5975ab.au" name="letterclick.au-266333a2-7a5975ab.au" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/trainstop.au-69bf60ba-3732fdea.idx" name="trainstop.au-69bf60ba-3732fdea.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_elements.gif-15867b6a-6928be7c.gif" name="_elements.gif-15867b6a-6928be7c.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_elements.gif-15867b6a-6928be7c.idx" name="_elements.gif-15867b6a-6928be7c.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/letterclick.au-266333a2-7a5975ab.idx" name="letterclick.au-266333a2-7a5975ab.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_train_bar_comp.gif-d842bc5-454dcfab.gif" name="_train_bar_comp.gif-d842bc5-454dcfab.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_train_bar_comp.gif-d842bc5-454dcfab.idx" name="_train_bar_comp.gif-d842bc5-454dcfab.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/tile.gif-1ba9cdf2-47e11713.gif" name="tile.gif-1ba9cdf2-47e11713.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/tile.gif-1ba9cdf2-47e11713.idx" name="tile.gif-1ba9cdf2-47e11713.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_fire.gif-679134a9-5606a0b6.gif" name="_fire.gif-679134a9-5606a0b6.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_fire.gif-679134a9-5606a0b6.idx" name="_fire.gif-679134a9-5606a0b6.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_welcome.gif-3782eee7-51a3e778.gif" name="_welcome.gif-3782eee7-51a3e778.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/_welcome.gif-3782eee7-51a3e778.idx" name="_welcome.gif-3782eee7-51a3e778.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/1.class-3e0be904-7f4dd695.idx" name="1.class-3e0be904-7f4dd695.idx" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/tube_vert.gif-3b339820-683f505a.gif" name="tube_vert.gif-3b339820-683f505a.gif" session="0"/>
+							<file location="/home/julie/.java/deployment/cache/javapi/v1.0/file/tube_vert.gif-3b339820-683f505a.idx" name="tube_vert.gif-3b339820-683f505a.idx" session="0"/>
+						</directory>
+					</directory>
+				</directory>
+			</directory>
+			<directory location="" name="security" session="0"/>
+		</directory>
+	</directory>
+	<file location="/home/julie/hs_err_pid7616.log" name="hs_err_pid7616.log" session="0"/>
+	<file location="/home/julie/.bashrc" name=".bashrc" session="0"/>
+	<directory location="" name=".gnome2_private" session="0"/>
+	<directory location="" name="julie" session="0">
+		<file location="/home/julie/julie/questions.doc" name="questions.doc" session="0"/>
+		<file location="/home/julie/julie/steno.pdf" name="steno.pdf" session="0"/>
+		<file location="/home/julie/julie/steno.sxw" name="steno.sxw" session="0"/>
+		<file location="/home/julie/julie/declaration.sxw" name="declaration.sxw" session="0"/>
+		<file location="/home/julie/julie/test.html~" name="test.html~" session="0"/>
+		<directory location="" name="emploi" session="0">
+			<file location="/home/julie/julie/emploi/job.sxw" name="job.sxw" session="0"/>
+			<file location="/home/julie/julie/emploi/lettre de motivation.sxw" name="lettre de motivation.sxw" session="0"/>
+			<file location="/home/julie/julie/emploi/offre.sxw" name="offre.sxw" session="0"/>
+		</directory>
+		<file location="/home/julie/julie/secrets .abw" name="secrets .abw" session="0"/>
+		<file location="/home/julie/julie/lettre.sxw" name="lettre.sxw" session="0"/>
+		<file location="/home/julie/julie/communication.sxw" name="communication.sxw" session="0"/>
+		<file location="/home/julie/julie/test.html" name="test.html" session="0"/>
+		<file location="/home/julie/julie/resume.sxw" name="resume.sxw" session="0"/>
+	</directory>
+	<file location="/home/julie/offre1.sxw" name="offre1.sxw" session="0"/>
+	<file location="/home/julie/offre2.sxw" name="offre2.sxw" session="0"/>
+	<directory location="" name=".mozilla" session="0"/>
+	<directory location="" name=".gconfd" session="0"/>
+	<directory location="" name=".gnome2" session="0"/>
+	<directory location="" name=".gstreamer-0.8" session="0">
+		<file location="/home/julie/.gstreamer-0.8/registry.xml" name="registry.xml" session="0"/>
+	</directory>
+	<directory location="" name="wallpapers" session="0">
+		<file location="/home/julie/wallpapers/GNOME-PurpleRoom-Th.png" name="GNOME-PurpleRoom-Th.png" session="0"/>
+		<file location="/home/julie/wallpapers/OTHER-gnulinux-1280-Th.jpg" name="OTHER-gnulinux-1280-Th.jpg" session="0"/>
+		<file location="/home/julie/wallpapers/Other-BabyTux-Th.png" name="Other-BabyTux-Th.png" session="0"/>
+		<file location="/home/julie/wallpapers/GNOME-GNOMEIsInTheAir-Th.png" name="GNOME-GNOMEIsInTheAir-Th.png" session="0"/>
+	</directory>
+	<file location="/home/julie/.ICEauthority" name=".ICEauthority" session="0"/>
+	<directory location="" name=".metacity" session="0"/>
+	<directory location="" name="Desktop" session="0"/>
+	<directory location="" name=".nautilus" session="0">
+		<directory location="" name="metafiles" session="0"/>
+	</directory>
+	<directory location="" name=".evolution" session="0">
+		<directory location="" name="mail" session="0">
+			<directory location="" name="local" session="0">
+				<file location="/home/julie/.evolution/mail/local/Sent" name="Sent" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Drafts" name="Drafts" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Inbox" name="Inbox" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Inbox.ibex.index.data" name="Inbox.ibex.index.data" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Outbox" name="Outbox" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Drafts.cmeta" name="Drafts.cmeta" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Inbox.ev-summary" name="Inbox.ev-summary" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Sent.ibex.index" name="Sent.ibex.index" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Inbox.cmeta" name="Inbox.cmeta" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Outbox.ibex.index.data" name="Outbox.ibex.index.data" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Inbox.ibex.index" name="Inbox.ibex.index" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Drafts.ibex.index.data" name="Drafts.ibex.index.data" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Outbox.cmeta" name="Outbox.cmeta" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Sent.ibex.index.data" name="Sent.ibex.index.data" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Outbox.ibex.index" name="Outbox.ibex.index" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Sent.cmeta" name="Sent.cmeta" session="0"/>
+				<file location="/home/julie/.evolution/mail/local/Drafts.ibex.index" name="Drafts.ibex.index" session="0"/>
+			</directory>
+			<file location="/home/julie/.evolution/mail/searches.xml" name="searches.xml" session="0"/>
+			<directory location="" name="config" session="0">
+				<file location="/home/julie/.evolution/mail/config/folder-tree-expand-state.xml" name="folder-tree-expand-state.xml" session="0"/>
+			</directory>
+		</directory>
+		<file location="/home/julie/.evolution/key3.db" name="key3.db" session="0"/>
+		<file location="/home/julie/.evolution/cert8.db" name="cert8.db" session="0"/>
+		<directory location="" name="cache" session="0"/>
+		<directory location="" name="tasks" session="0">
+			<directory location="" name="local" session="0"/>
+			<directory location="" name="config" session="0"/>
+		</directory>
+		<directory location="" name="calendar" session="0">
+			<directory location="" name="local" session="0"/>
+			<directory location="" name="config" session="0"/>
+		</directory>
+		<directory location="" name="addressbook" session="0">
+			<directory location="" name="local" session="0">
+				<directory location="" name="system" session="0">
+					<file location="/home/julie/.evolution/addressbook/local/system/addressbook.db" name="addressbook.db" session="0"/>
+				</directory>
+			</directory>
+		</directory>
+		<file location="/home/julie/.evolution/camel-cert.db" name="camel-cert.db" session="0"/>
+		<file location="/home/julie/.evolution/secmod.db" name="secmod.db" session="0"/>
+	</directory>
+	<file location="/home/julie/.bash_history" name=".bash_history" session="0"/>
+	<file location="/home/julie/.gtkrc-1.2-gnome2" name=".gtkrc-1.2-gnome2" session="0"/>
+	<directory location="" name=".openoffice" session="0">
+		<directory location="" name="1.1.4" session="0">
+			<directory location="" name="user" session="0">
+				<directory location="" name="temp" session="0"/>
+				<directory location="" name="database" session="0">
+					<directory location="" name="biblio" session="0">
+						<file location="/home/julie/.openoffice/1.1.4/user/database/biblio/biblio.dbf" name="biblio.dbf" session="0"/>
+					</directory>
+				</directory>
+				<directory location="" name="basic" session="0">
+					<directory location="" name="Standard" session="0">
+						<file location="/home/julie/.openoffice/1.1.4/user/basic/Standard/Module1.xba" name="Module1.xba" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/basic/Standard/dialog.xlb" name="dialog.xlb" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/basic/Standard/script.xlb" name="script.xlb" session="0"/>
+					</directory>
+					<file location="/home/julie/.openoffice/1.1.4/user/basic/dialog.xlc" name="dialog.xlc" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/basic/script.xlc" name="script.xlc" session="0"/>
+				</directory>
+				<directory location="" name="store" session="0"/>
+				<directory location="" name="autocorr" session="0"/>
+				<directory location="" name="autotext" session="0">
+					<file location="/home/julie/.openoffice/1.1.4/user/autotext/mytexts.bau" name="mytexts.bau" session="0"/>
+				</directory>
+				<directory location="" name="template" session="0"/>
+				<directory location="" name="uno_packages" session="0"/>
+				<directory location="" name="backup" session="0"/>
+				<directory location="" name="gallery" session="0">
+					<file location="/home/julie/.openoffice/1.1.4/user/gallery/sg30.sdv" name="sg30.sdv" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/gallery/sg30.thm" name="sg30.thm" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/gallery/sg100.sdv" name="sg100.sdv" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/gallery/sg100.thm" name="sg100.thm" session="0"/>
+				</directory>
+				<directory location="" name="config" session="0">
+					<file location="/home/julie/.openoffice/1.1.4/user/config/hatching.soh" name="hatching.soh" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/gallery.soc" name="gallery.soc" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/autotbl.fmt" name="autotbl.fmt" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/html.soc" name="html.soc" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/cmyk.soc" name="cmyk.soc" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/standard.sob" name="standard.sob" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/standard.soc" name="standard.soc" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/standard.sod" name="standard.sod" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/standard.soe" name="standard.soe" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/standard.sog" name="standard.sog" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/standard.soh" name="standard.soh" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/palette.soc" name="palette.soc" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/inethist.dat" name="inethist.dat" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/arrowhd.soe" name="arrowhd.soe" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/web.soc" name="web.soc" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/classic.sog" name="classic.sog" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/styles.sod" name="styles.sod" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/modern.sog" name="modern.sog" session="0"/>
+					<file location="/home/julie/.openoffice/1.1.4/user/config/sun-color.soc" name="sun-color.soc" session="0"/>
+				</directory>
+				<directory location="" name="wordbook" session="0"/>
+				<directory location="" name="plugin" session="0"/>
+				<directory location="" name="registry" session="0">
+					<directory location="" name="data" session="0">
+						<directory location="" name="org" session="0">
+							<directory location="" name="openoffice" session="0">
+								<file location="/home/julie/.openoffice/1.1.4/user/registry/data/org/openoffice/Setup.xcu" name="Setup.xcu" session="0"/>
+								<directory location="" name="Office" session="0">
+									<file location="/home/julie/.openoffice/1.1.4/user/registry/data/org/openoffice/Office/Linguistic.xcu" name="Linguistic.xcu" session="0"/>
+									<file location="/home/julie/.openoffice/1.1.4/user/registry/data/org/openoffice/Office/Views.xcu" name="Views.xcu" session="0"/>
+									<file location="/home/julie/.openoffice/1.1.4/user/registry/data/org/openoffice/Office/Common.xcu" name="Common.xcu" session="0"/>
+								</directory>
+								<file location="/home/julie/.openoffice/1.1.4/user/registry/data/org/openoffice/Inet.xcu" name="Inet.xcu" session="0"/>
+							</directory>
+						</directory>
+					</directory>
+					<directory location="" name="cache" session="0">
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Office.Common.dat" name="org.openoffice.Office.Common.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Office.UI.dat" name="org.openoffice.Office.UI.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Office.DataAccess.dat" name="org.openoffice.Office.DataAccess.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Office.Addons.dat" name="org.openoffice.Office.Addons.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Office.Security.dat" name="org.openoffice.Office.Security.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Office.Substitution.dat" name="org.openoffice.Office.Substitution.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Office.ProtocolHandler.dat" name="org.openoffice.Office.ProtocolHandler.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Office.Writer.dat" name="org.openoffice.Office.Writer.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Office.Commands.dat" name="org.openoffice.Office.Commands.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Office.Jobs.dat" name="org.openoffice.Office.Jobs.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Setup.dat" name="org.openoffice.Setup.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.ucb.Store.dat" name="org.openoffice.ucb.Store.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Office.Linguistic.dat" name="org.openoffice.Office.Linguistic.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.UserProfile.dat" name="org.openoffice.UserProfile.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.ucb.Configuration.dat" name="org.openoffice.ucb.Configuration.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Inet.dat" name="org.openoffice.Inet.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Office.TypeDetection.dat" name="org.openoffice.Office.TypeDetection.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.VCL.dat" name="org.openoffice.VCL.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Office.Views.dat" name="org.openoffice.Office.Views.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Office.WriterWeb.dat" name="org.openoffice.Office.WriterWeb.dat" session="0"/>
+						<file location="/home/julie/.openoffice/1.1.4/user/registry/cache/org.openoffice.Office.SFX.dat" name="org.openoffice.Office.SFX.dat" session="0"/>
+					</directory>
+				</directory>
+				<directory location="" name="psprint" session="0">
+					<file location="/home/julie/.openoffice/1.1.4/user/psprint/pspfontcache" name="pspfontcache" session="0"/>
+					<directory location="" name="fontmetric" session="0"/>
+					<directory location="" name="driver" session="0"/>
+				</directory>
+			</directory>
+			<file location="/home/julie/.openoffice/1.1.4/LICENSE" name="LICENSE" session="0"/>
+			<directory location="" name="share" session="0">
+				<directory location="" name="dict" session="0">
+					<directory location="" name="ooo" session="0"/>
+				</directory>
+				<directory location="" name="samples" session="0">
+					<directory location="" name="english" session="0"/>
+				</directory>
+				<directory location="" name="autocorr" session="0"/>
+				<directory location="" name="uno_packages" session="0"/>
+			</directory>
+			<file location="/home/julie/.openoffice/1.1.4/README" name="README" session="0"/>
+			<file location="/home/julie/.openoffice/1.1.4/LICENSE.html" name="LICENSE.html" session="0"/>
+			<file location="/home/julie/.openoffice/1.1.4/instdb.ins" name="instdb.ins" session="0"/>
+			<file location="/home/julie/.openoffice/1.1.4/THIRDPARTYLICENSEREADME.html" name="THIRDPARTYLICENSEREADME.html" session="0"/>
+			<file location="/home/julie/.openoffice/1.1.4/setup.log" name="setup.log" session="0"/>
+			<file location="/home/julie/.openoffice/1.1.4/README.html" name="README.html" session="0"/>
+			<directory location="" name="program" session="0">
+				<directory location="" name="addin" session="0"/>
+			</directory>
+		</directory>
+	</directory>
+	<directory location="" name=".thumbnails" session="0"/>
+	<file location="/home/julie/.Xauthority" name=".Xauthority" session="0"/>
+	<file location="/home/julie/.sversionrc" name=".sversionrc" session="0"/>
+	<file location="/home/julie/.recently-used" name=".recently-used" session="0"/>
+	<directory location="" name=".gconf" session="0"/>
+	<directory location="" name=".gnome" session="0">
+		<directory location="" name="gnome-vfs" session="0">
+			<file location="/home/julie/.gnome/gnome-vfs/.trash_entry_cache" name=".trash_entry_cache" session="0"/>
+		</directory>
+	</directory>
+	<file location="/home/julie/.bash_profile" name=".bash_profile" session="0"/>
+	<file location="/home/julie/.xsession-errors" name=".xsession-errors" session="0"/>
+	<file location="/home/julie/.fonts.cache-1" name=".fonts.cache-1" session="0"/>
+</compilation>
+

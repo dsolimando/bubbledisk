@@ -1,0 +1,13 @@
+<html>
+<body>
+<b>Activating download manager...</b><br>
+<script language='javascript'>
+  var win = window.open('',	'',	'width=350, height=100, resizable');
+  var doc = null; 
+  if (win != null) doc = win.document;
+  else doc = document;
+  doc.write("<html><body><b>Activating download manager...</b><br><applet   CODE='com.akamai.dm.ui.applet.DMApplet.class'   CODEBASE='http://download.akamaitools.com.edgesuite.net/dlmanager/dev/code/Java_105/'    ARCHIVE='DMApplet.jar'    ALT='Could not start Download Manager since this browser does not support Java Applets'   NAME='DownloadManagerDLM'   width='0' height='0' MAYSCRIPT> <b>Could not start Download Manager since this browser does not support Java Applets</b><br> </applet> </body> </html> ");
+  window.close();
+</script>
+</body>
+</html>
